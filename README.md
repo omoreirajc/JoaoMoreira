@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Moreira</h1>
-<h3 align="center">  </i> </h3>
+<h3 align="center">  Junior in the making! </i> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omoreirajc&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
