@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Netsujr">
+  <a href="https://github.com/omoreirajc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omoreirajc&count_private=true&theme=dark&layout=compact" alt="Moreira Language stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omoreirajc&theme=dark&show_icons=true&count_private=true" alt="Moreira Language stats" />
 </div>
